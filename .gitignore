@@ -1,0 +1,6 @@
+data/
+seq2seq_attentionmodel/lr_0.001_hs_128
+seq2seq_attentionmodel/modeldata
+seq2seq_attentionmodel/result
+seq2seq_attentionmodel/testData
+seq2seq_attentionmodel/trainData
